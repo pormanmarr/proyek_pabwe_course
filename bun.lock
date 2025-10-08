@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "vanisa-reactjs-courses",
+      "name": "porman-reactjs-courses",
       "dependencies": {
         "@popperjs/core": "^2.11.8",
         "@reduxjs/toolkit": "^2.9.0",
